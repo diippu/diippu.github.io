@@ -1,2 +1,2 @@
 # diippu.github.io
-websitePortfolio with only html &amp; CSS
+websitePortfolio with only HTML &amp; CSS
